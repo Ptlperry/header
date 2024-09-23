@@ -1,0 +1,9 @@
+
+@media only screen and (max-width: 575px){
+    .navbar-toggler{
+        display: none;
+    }
+  img{
+   justify-content: center;
+  }
+  }
