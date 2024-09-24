@@ -1,1 +1,1 @@
-https://dynamic-sprinkles-76ce3f.netlify.app/
+https://bucolic-bavarois-8428c3.netlify.app/
